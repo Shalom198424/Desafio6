@@ -1,0 +1,24 @@
+*{
+    background: #099c58;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%; 
+}
+
+.logosh{
+    padding-top: 10px;
+    margin-left: 10px;
+    width: 70px;
+}
+
+main{
+    padding: 0;
+    margin-left: 50px;
+    font-family: sans-serif;
+}
+
+
+.footer{
+    text-align: center;
+}
